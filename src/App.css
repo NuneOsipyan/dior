@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+.main_app{
+  max-width: 1150px;
+  margin: auto;
+  border: 6px solid rgb(81, 13, 13);
+  margin-top: 10px;
+  height: auto;
+  color: aliceblue;
+  padding: 10px;
+}
+

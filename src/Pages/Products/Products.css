@@ -1,0 +1,9 @@
+.product_page_style{
+    background-image: url(home_back.jpg);
+    background-size: 100%;
+    height: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

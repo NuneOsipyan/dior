@@ -1,0 +1,24 @@
+.home_all {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    justify-content: center;
+    padding: 30px;
+    background-image: url(img/home_back.jpg);
+    background-size: 100%;
+
+}
+
+.home_img {
+    width: 500px;
+    border-radius: 50px;
+    border: 4px solid rgb(237, 5, 5);
+}
+
+
+.home_img_1 {
+    width: 90%;
+    border-radius: 50px;
+    border: 4px solid rgb(237, 5, 5);
+}

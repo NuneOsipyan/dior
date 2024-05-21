@@ -1,0 +1,21 @@
+.nav_all {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 30px;
+    margin-top: 50px;
+    border: 1px solid rgb(188, 126, 126);
+    padding: 15px;
+
+}
+
+.nav_links {
+    color: aliceblue;
+    text-decoration: none;
+    border: 1px solid rgb(234, 201, 201);
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.nav_links:hover {
+    background-color: rgb(167, 121, 121);
+}
