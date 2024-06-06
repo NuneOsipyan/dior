@@ -1,0 +1,34 @@
+.all_order{
+    display: flex;
+    margin-top: 50px;
+    gap: 150px;
+}
+
+
+.order_inputs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border-radius: 50px;
+    border: 1px solid white;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+}
+
+
+.err_order{
+    color: rgb(55, 16, 16);
+    font-size: 15px;
+}
+
+.ttlPrice{
+    color: rgb(55, 16, 16);
+    font-size: 20px;   
+}
+
+.ttl_text{
+    color: rgb(55, 16, 16);
+}

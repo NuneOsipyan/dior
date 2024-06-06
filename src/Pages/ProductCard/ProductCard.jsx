@@ -2,10 +2,11 @@ import React from 'react';
 import './ProductCard.css';
 import { useParams } from 'react-router-dom';
 
-const ProductCard = ({ products }) => {
+const ProductCard = ({ products,addToBasket } ) => {
     const { id } = useParams();
 
     const product = products.find((e) => e.id === +(id));
+    
 
     return (
         <div className='product_card'>

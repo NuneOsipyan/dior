@@ -10,37 +10,49 @@ export const products = [
         "id":1,
         "title": "cream N01",
         "img": pr1,
-        "price":"210$"
+        "price":210,
+        "count":1,
+        "initprice":210
     },
     {
         "id":2,
         "title": "Hiliterts N6,N9,N15",
         "img": pr2,
-        "price":"90$"
+        "price":90,
+        "count":1,
+        "initprice":90
     },
     {
         "id":3,
         "title": "Blush N67",
         "img": pr3,
-        "price":"200$"
+        "price":200,
+        "count":1,
+        "initprice":200
     },
     {
         "id":4,
         "title": "Parfium N3",
         "img": pr4,
-        "price":"300$"
+        "price":300,
+        "count":1,
+        "initprice":300
     },
     {
         "id":5,
         "title": "Parfium N8",
         "img": pr5,
-        "price":"250$"
+        "price":250,
+        "count":1,
+        "initprice":250
     },
     {
         "id":6,
         "title": "Box  ",
         "img": pr6,
-        "price":"600$"
+        "price":600,
+        "count":1,
+        "initprice":600
     },
 
 

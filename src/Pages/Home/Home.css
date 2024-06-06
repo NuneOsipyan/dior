@@ -22,3 +22,12 @@
     border-radius: 50px;
     border: 4px solid rgb(237, 5, 5);
 }
+
+.home_slide_all{
+    margin-top: 20px;
+}
+
+/* .only_slide{
+  display: flex;
+  justify-content: center;
+} */
